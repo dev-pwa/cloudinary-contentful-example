@@ -11,7 +11,14 @@ import Markdown from "markdown-to-jsx";
 import styles from "./index.module.css";
 
 export function ImageCard(props) {
-  const { imageUrl, alt, attribution, resizeMethod, imageFormat, originalSizeBytes } = props;
+  const {
+    imageUrl,
+    alt,
+    attribution,
+    resizeMethod,
+    imageFormat,
+    originalSizeBytes,
+  } = props;
   const sbDataAttributes = pickDataAttrs(props);
   const validImageUrl = isCloudinaryUrl(imageUrl);
   const widths = imageStops(resizeMethod);
@@ -44,6 +51,11 @@ export function ImageCard(props) {
     if (validImageUrl) {
       const flags = imageFormat === "auto" ? ["f_auto"] : null;
       const srcSet = makeSrcSet(imageUrl, { widths, flags });
+      const pctOfOriginalSize =
+        sizeBytes && originalSizeBytes
+          ? Math.round((sizeBytes / originalSizeBytes) * 100 * 10) / 10
+          : null;
+
       return (
         <div {...sbDataAttributes}>
           <img
@@ -58,6 +70,7 @@ export function ImageCard(props) {
           {sizeBytes && (
             <div className={styles.imageInfoOverlay}>
               {Math.ceil(sizeBytes / 1024)}kb
+              {pctOfOriginalSize && <span>{` (${pctOfOriginalSize}% of original)`}</span>}
             </div>
           )}
           {attribution && (

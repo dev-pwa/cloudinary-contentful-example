@@ -30,7 +30,7 @@ function Gallery({images, resizeMethod, imageFormat}) {
     {images.map((imageInfo, idx) => {
       const { altText, attribution } = imageInfo;
       const imageMetadata = imageInfo?.image?.[0];
-      const imageUrl = imageMetadata?.secure_url;
+      const imageUrl = imageMetadata?.original_secure_url || imageMetadata?.secure_url;
       const originalSizeBytes = imageMetadata?.bytes;
       return (
         <ImageCard

@@ -13,7 +13,7 @@ fields:
     options:
       - label: Responsive
         value: responsive
-      - label: None (original images)
+      - label: No resize
         value: none
       - label: Aggressive (fixed)
         value: aggressive
