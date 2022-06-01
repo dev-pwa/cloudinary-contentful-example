@@ -1035,7 +1035,7 @@
         "id": "3Zz31TJqEskoe9BfJkkZfV",
         "type": "Entry",
         "createdAt": "2022-05-31T11:33:34.510Z",
-        "updatedAt": "2022-05-31T15:30:14.339Z",
+        "updatedAt": "2022-06-01T10:15:35.345Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1043,8 +1043,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 5,
-        "publishedAt": "2022-05-31T11:34:23.820Z",
+        "publishedVersion": 8,
+        "publishedAt": "2022-06-01T10:15:35.345Z",
         "firstPublishedAt": "2022-05-31T11:34:23.820Z",
         "createdBy": {
           "sys": {
@@ -1060,8 +1060,8 @@
             "id": "5EVbQR9vkbrESvndkkstCM"
           }
         },
-        "publishedCounter": 1,
-        "version": 8,
+        "publishedCounter": 2,
+        "version": 9,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1133,7 +1133,7 @@
         "id": "1KyuauUtM3bpar8Ov7xc28",
         "type": "Entry",
         "createdAt": "2022-05-31T11:34:50.964Z",
-        "updatedAt": "2022-05-31T17:59:11.472Z",
+        "updatedAt": "2022-06-01T10:15:35.279Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1141,8 +1141,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 7,
-        "publishedAt": "2022-05-31T17:46:31.331Z",
+        "publishedVersion": 9,
+        "publishedAt": "2022-06-01T10:15:35.279Z",
         "firstPublishedAt": "2022-05-31T11:35:19.926Z",
         "createdBy": {
           "sys": {
@@ -1158,8 +1158,8 @@
             "id": "5EVbQR9vkbrESvndkkstCM"
           }
         },
-        "publishedCounter": 3,
-        "version": 9,
+        "publishedCounter": 4,
+        "version": 10,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1231,7 +1231,7 @@
         "id": "5YPPXqxWL5tJ7hdJuACVMS",
         "type": "Entry",
         "createdAt": "2022-05-31T11:35:36.130Z",
-        "updatedAt": "2022-05-31T17:55:48.288Z",
+        "updatedAt": "2022-06-01T10:15:35.311Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1239,8 +1239,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-05-31T11:36:11.411Z",
+        "publishedVersion": 22,
+        "publishedAt": "2022-06-01T10:15:35.311Z",
         "firstPublishedAt": "2022-05-31T11:36:11.411Z",
         "createdBy": {
           "sys": {
@@ -1256,8 +1256,8 @@
             "id": "5EVbQR9vkbrESvndkkstCM"
           }
         },
-        "publishedCounter": 1,
-        "version": 22,
+        "publishedCounter": 2,
+        "version": 23,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1347,7 +1347,7 @@
         "id": "6iXO7K6Owny5mCNLtIPE2I",
         "type": "Entry",
         "createdAt": "2022-05-31T11:36:30.501Z",
-        "updatedAt": "2022-05-31T14:49:34.260Z",
+        "updatedAt": "2022-06-01T10:15:48.013Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1355,8 +1355,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 14,
-        "publishedAt": "2022-05-31T11:38:01.203Z",
+        "publishedVersion": 17,
+        "publishedAt": "2022-06-01T10:15:48.013Z",
         "firstPublishedAt": "2022-05-31T11:38:01.203Z",
         "createdBy": {
           "sys": {
@@ -1372,8 +1372,8 @@
             "id": "5EVbQR9vkbrESvndkkstCM"
           }
         },
-        "publishedCounter": 1,
-        "version": 17,
+        "publishedCounter": 2,
+        "version": 18,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1414,7 +1414,7 @@
         "id": "28U40iSsYw9sJyLRy7LkW8",
         "type": "Entry",
         "createdAt": "2022-05-31T12:32:53.227Z",
-        "updatedAt": "2022-05-31T14:53:12.890Z",
+        "updatedAt": "2022-06-01T10:15:23.092Z",
         "environment": {
           "sys": {
             "id": "master",
@@ -1422,8 +1422,8 @@
             "linkType": "Environment"
           }
         },
-        "publishedVersion": 4,
-        "publishedAt": "2022-05-31T12:33:31.245Z",
+        "publishedVersion": 7,
+        "publishedAt": "2022-06-01T10:15:23.092Z",
         "firstPublishedAt": "2022-05-31T12:33:31.245Z",
         "createdBy": {
           "sys": {
@@ -1439,8 +1439,8 @@
             "id": "5EVbQR9vkbrESvndkkstCM"
           }
         },
-        "publishedCounter": 1,
-        "version": 7,
+        "publishedCounter": 2,
+        "version": 8,
         "publishedBy": {
           "sys": {
             "type": "Link",
@@ -1480,6 +1480,827 @@
               }
             }
           ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "00b05wlxkj6y"
+          }
+        },
+        "id": "3qbdEscS0AjPvJxKD8IZMF",
+        "type": "Entry",
+        "createdAt": "2022-05-31T14:52:07.826Z",
+        "updatedAt": "2022-06-01T10:15:47.992Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2022-06-01T10:15:47.992Z",
+        "firstPublishedAt": "2022-06-01T10:15:47.992Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "ThumbnailsSection"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Image with thumbnails"
+        },
+        "image": {
+          "en-US": [
+            {
+              "public_id": "cldemo/nicole-wolf-NdFREMS5P08-unsplash_cf7cjx",
+              "resource_type": "image",
+              "type": "upload",
+              "format": "jpg",
+              "version": 1653047299,
+              "url": "http://res.cloudinary.com/stackbit-com/image/upload/v1653047299/cldemo/nicole-wolf-NdFREMS5P08-unsplash_cf7cjx.jpg",
+              "secure_url": "https://res.cloudinary.com/stackbit-com/image/upload/v1653047299/cldemo/nicole-wolf-NdFREMS5P08-unsplash_cf7cjx.jpg",
+              "width": 2400,
+              "height": 3600,
+              "bytes": 1937664,
+              "duration": null,
+              "tags": [
+              ],
+              "metadata": [
+              ],
+              "created_at": "2022-05-20T11:48:19Z",
+              "access_mode": "public",
+              "created_by": {
+                "type": "user",
+                "id": "e4142c7b418713b42d67485b790cb6"
+              },
+              "uploaded_by": {
+                "type": "user",
+                "id": "e4142c7b418713b42d67485b790cb6"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "00b05wlxkj6y"
+          }
+        },
+        "id": "2kBwjFtpc5a4SxEI0fGMrU",
+        "type": "Entry",
+        "createdAt": "2022-05-31T14:53:36.284Z",
+        "updatedAt": "2022-06-01T10:15:47.899Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 9,
+        "publishedAt": "2022-06-01T10:15:47.899Z",
+        "firstPublishedAt": "2022-06-01T10:15:47.899Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 10,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "Page"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Thumbnail Generation"
+        },
+        "slug": {
+          "en-US": "thumbs"
+        },
+        "sections": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "O5hb8TD9TwrARuiWQ3rI7"
+              }
+            },
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "3VZjKvwTj8O5dMFlFdNcdF"
+              }
+            }
+          ]
+        },
+        "navbarTitle": {
+          "en-US": "Thumbnails"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "00b05wlxkj6y"
+          }
+        },
+        "id": "5k6IB9PGW74jFEk52TWL1O",
+        "type": "Entry",
+        "createdAt": "2022-05-31T15:02:53.323Z",
+        "updatedAt": "2022-06-01T10:15:47.964Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 2,
+        "publishedAt": "2022-06-01T10:15:47.964Z",
+        "firstPublishedAt": "2022-06-01T10:15:47.964Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 3,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "GallerySection"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Image gallery"
+        },
+        "imageFormat": {
+          "en-US": "auto"
+        },
+        "resizeMethod": {
+          "en-US": "responsive"
+        },
+        "images": {
+          "en-US": [
+            {
+              "sys": {
+                "type": "Link",
+                "linkType": "Entry",
+                "id": "1KyuauUtM3bpar8Ov7xc28"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "00b05wlxkj6y"
+          }
+        },
+        "id": "3VZjKvwTj8O5dMFlFdNcdF",
+        "type": "Entry",
+        "createdAt": "2022-05-31T15:05:23.828Z",
+        "updatedAt": "2022-06-01T10:15:47.946Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 4,
+        "publishedAt": "2022-06-01T10:15:47.946Z",
+        "firstPublishedAt": "2022-06-01T10:15:47.946Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 5,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "ThumbnailsSection"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Woman working in a cafe"
+        },
+        "image": {
+          "en-US": [
+            {
+              "url": "http://res.cloudinary.com/stackbit-com/image/upload/v1653028330/cldemo/nicole-wolf-NdFREMS5P08-unsplash_etqhvk.jpg",
+              "tags": [
+              ],
+              "type": "upload",
+              "bytes": 1937664,
+              "width": 2400,
+              "format": "jpg",
+              "height": 3600,
+              "version": 1653028330,
+              "duration": null,
+              "metadata": [
+              ],
+              "public_id": "cldemo/nicole-wolf-NdFREMS5P08-unsplash_etqhvk",
+              "created_at": "2022-05-20T06:32:10Z",
+              "created_by": {
+                "id": "e4142c7b418713b42d67485b790cb6",
+                "type": "user"
+              },
+              "secure_url": "https://res.cloudinary.com/stackbit-com/image/upload/v1653028330/cldemo/nicole-wolf-NdFREMS5P08-unsplash_etqhvk.jpg",
+              "access_mode": "public",
+              "uploaded_by": {
+                "id": "e4142c7b418713b42d67485b790cb6",
+                "type": "user"
+              },
+              "resource_type": "image"
+            }
+          ]
+        },
+        "altText": {
+          "en-US": "Woman working in a cafe"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "00b05wlxkj6y"
+          }
+        },
+        "id": "O5hb8TD9TwrARuiWQ3rI7",
+        "type": "Entry",
+        "createdAt": "2022-05-31T15:06:20.821Z",
+        "updatedAt": "2022-06-01T10:15:47.923Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2022-06-01T10:15:47.923Z",
+        "firstPublishedAt": "2022-06-01T10:15:47.923Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "TextSection"
+          }
+        }
+      },
+      "fields": {
+        "title": {
+          "en-US": "Thumbnail generation"
+        },
+        "body": {
+          "en-US": "Cloudinary provides multiple methods for cropping images to fit specific dimensions, with ample configuration options.\n\nYou're encoraged to **edit this page in Stackbit** to add images and see the effect of several cropping methods. If you're a developer, you can edit the source code to add or edit transformations.\n"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "00b05wlxkj6y"
+          }
+        },
+        "id": "35ujOrQPpwhwtpWygSCNsd",
+        "type": "Entry",
+        "createdAt": "2022-05-31T15:09:48.791Z",
+        "updatedAt": "2022-06-01T10:15:47.860Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2022-06-01T10:15:47.860Z",
+        "firstPublishedAt": "2022-06-01T10:15:47.860Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "ImageDetails"
+          }
+        }
+      },
+      "fields": {
+        "image": {
+          "en-US": [
+            {
+              "url": "http://res.cloudinary.com/stackbit-com/image/upload/v1652962630/cldemo/aedrian-v9yXxKNLvTw-unsplash_dj0c5z.jpg",
+              "tags": [
+              ],
+              "type": "upload",
+              "bytes": 948919,
+              "width": 2400,
+              "format": "jpg",
+              "height": 3600,
+              "version": 1652962630,
+              "duration": null,
+              "metadata": [
+              ],
+              "public_id": "cldemo/aedrian-v9yXxKNLvTw-unsplash_dj0c5z",
+              "created_at": "2022-05-19T12:17:10Z",
+              "created_by": {
+                "id": "e4142c7b418713b42d67485b790cb6",
+                "type": "user"
+              },
+              "secure_url": "https://res.cloudinary.com/stackbit-com/image/upload/v1652962630/cldemo/aedrian-v9yXxKNLvTw-unsplash_dj0c5z.jpg",
+              "access_mode": "public",
+              "uploaded_by": {
+                "id": "e4142c7b418713b42d67485b790cb6",
+                "type": "user"
+              },
+              "resource_type": "image"
+            }
+          ]
+        },
+        "altText": {
+          "en-US": "Leaves"
+        },
+        "attribution": {
+          "en-US": "Photo by [Aedrian](https://unsplash.com/@aedrian) on [Unsplash](https://unsplash.com).\n"
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "00b05wlxkj6y"
+          }
+        },
+        "id": "678OL2E3RvuZFVWn4uRmTr",
+        "type": "Entry",
+        "createdAt": "2022-05-31T15:26:10.488Z",
+        "updatedAt": "2022-06-01T10:15:47.834Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2022-06-01T10:15:47.834Z",
+        "firstPublishedAt": "2022-06-01T10:15:47.834Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "ImageDetails"
+          }
+        }
+      },
+      "fields": {
+        "image": {
+          "en-US": [
+            {
+              "url": "http://res.cloudinary.com/stackbit-com/image/upload/v1653139666/cldemo/jj-ying-9Qwbfa_RM94-unsplash_jxjtoe.jpg",
+              "tags": [
+              ],
+              "type": "upload",
+              "bytes": 602275,
+              "width": 2400,
+              "format": "jpg",
+              "height": 1600,
+              "version": 1653139666,
+              "duration": null,
+              "metadata": [
+              ],
+              "public_id": "cldemo/jj-ying-9Qwbfa_RM94-unsplash_jxjtoe",
+              "created_at": "2022-05-21T13:27:46Z",
+              "created_by": {
+                "id": "e4142c7b418713b42d67485b790cb6",
+                "type": "user"
+              },
+              "secure_url": "https://res.cloudinary.com/stackbit-com/image/upload/v1653139666/cldemo/jj-ying-9Qwbfa_RM94-unsplash_jxjtoe.jpg",
+              "access_mode": "public",
+              "uploaded_by": {
+                "id": "e4142c7b418713b42d67485b790cb6",
+                "type": "user"
+              },
+              "resource_type": "image"
+            }
+          ]
+        },
+        "altText": {
+          "en-US": "Fuji and Sakura"
+        },
+        "attribution": {
+          "en-US": "Photo by [JJ Ying](https://unsplash.com/@jjying) on [Unsplash](https://unsplash.com)."
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "00b05wlxkj6y"
+          }
+        },
+        "id": "4jLGPngraM4N4WiTcIemzo",
+        "type": "Entry",
+        "createdAt": "2022-05-31T15:27:47.731Z",
+        "updatedAt": "2022-06-01T10:15:47.806Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2022-06-01T10:15:47.806Z",
+        "firstPublishedAt": "2022-06-01T10:15:47.806Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "ImageDetails"
+          }
+        }
+      },
+      "fields": {
+        "image": {
+          "en-US": [
+            {
+              "url": "http://res.cloudinary.com/stackbit-com/image/upload/v1652962630/cldemo/nayris-aquino-lxMkTxNPpxs-unsplash_v6jf3k.jpg",
+              "tags": [
+              ],
+              "type": "upload",
+              "bytes": 418869,
+              "width": 1920,
+              "format": "jpg",
+              "height": 2400,
+              "version": 1652962630,
+              "duration": null,
+              "metadata": [
+              ],
+              "public_id": "cldemo/nayris-aquino-lxMkTxNPpxs-unsplash_v6jf3k",
+              "created_at": "2022-05-19T12:17:10Z",
+              "created_by": {
+                "id": "e4142c7b418713b42d67485b790cb6",
+                "type": "user"
+              },
+              "secure_url": "https://res.cloudinary.com/stackbit-com/image/upload/v1652962630/cldemo/nayris-aquino-lxMkTxNPpxs-unsplash_v6jf3k.jpg",
+              "access_mode": "public",
+              "uploaded_by": {
+                "id": "e4142c7b418713b42d67485b790cb6",
+                "type": "user"
+              },
+              "resource_type": "image"
+            }
+          ]
+        },
+        "altText": {
+          "en-US": "Running Shoes"
+        },
+        "attribution": {
+          "en-US": "Photo by [Nayris Aquino](https://unsplash.com/@aqnno_) on [Unsplash](https://unsplash.com)."
+        }
+      }
+    },
+    {
+      "metadata": {
+        "tags": [
+        ]
+      },
+      "sys": {
+        "space": {
+          "sys": {
+            "type": "Link",
+            "linkType": "Space",
+            "id": "00b05wlxkj6y"
+          }
+        },
+        "id": "2SG1R9IdUtTi1dCuR4BGzH",
+        "type": "Entry",
+        "createdAt": "2022-05-31T15:28:37.792Z",
+        "updatedAt": "2022-06-01T10:15:47.778Z",
+        "environment": {
+          "sys": {
+            "id": "master",
+            "type": "Link",
+            "linkType": "Environment"
+          }
+        },
+        "publishedVersion": 3,
+        "publishedAt": "2022-06-01T10:15:47.778Z",
+        "firstPublishedAt": "2022-06-01T10:15:47.778Z",
+        "createdBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "updatedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "publishedCounter": 1,
+        "version": 4,
+        "publishedBy": {
+          "sys": {
+            "type": "Link",
+            "linkType": "User",
+            "id": "5EVbQR9vkbrESvndkkstCM"
+          }
+        },
+        "contentType": {
+          "sys": {
+            "type": "Link",
+            "linkType": "ContentType",
+            "id": "ImageDetails"
+          }
+        }
+      },
+      "fields": {
+        "image": {
+          "en-US": [
+            {
+              "url": "http://res.cloudinary.com/stackbit-com/image/upload/v1652962630/cldemo/yura-khomitskyi-jPpRNkTvHXg-unsplash_b6oseg.jpg",
+              "tags": [
+              ],
+              "type": "upload",
+              "bytes": 957236,
+              "width": 2400,
+              "format": "jpg",
+              "height": 1600,
+              "version": 1652962630,
+              "duration": null,
+              "metadata": [
+              ],
+              "public_id": "cldemo/yura-khomitskyi-jPpRNkTvHXg-unsplash_b6oseg",
+              "created_at": "2022-05-19T12:17:10Z",
+              "created_by": {
+                "id": "e4142c7b418713b42d67485b790cb6",
+                "type": "user"
+              },
+              "secure_url": "https://res.cloudinary.com/stackbit-com/image/upload/v1652962630/cldemo/yura-khomitskyi-jPpRNkTvHXg-unsplash_b6oseg.jpg",
+              "access_mode": "public",
+              "uploaded_by": {
+                "id": "e4142c7b418713b42d67485b790cb6",
+                "type": "user"
+              },
+              "resource_type": "image"
+            }
+          ]
+        },
+        "altText": {
+          "en-US": "Never give up, Ukraine"
+        },
+        "attribution": {
+          "en-US": "Photo by [Yura Khomitskyi](https://unsplash.com/@ykhomi) on [Unsplash](https://unsplash.com)."
         }
       }
     }
