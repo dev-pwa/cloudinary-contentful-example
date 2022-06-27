@@ -32,7 +32,7 @@ npm run dev
     2. If you switch to smaller widths/pixel density, reload the page - when the browser already has high-resolution images available, it won't download smaller ones (but it works automatically in the other direction!)
 6. Install Stackbit's command line tools:
     1. Run `npm i -g @stackbit/cli@latest` (once).
-    1. Note: you need veresion 0.2.19+ to use the Cloudinary integration locally.
+    1. Note: you need version 0.2.19+ to use the Cloudinary integration locally.
 7. Run:
 ```
 stackbit dev --cloudinary-cloud-name <cloudinary cloud name> --cloudinary-api-key <api key>
